@@ -1,6 +1,7 @@
 <?php
 
-use \R as R;
+use R as R;
+
 require 'RedUNIT/CUBRID.php';
 //Load the CUBRID query writer
 require('../RedBeanPHP/QueryWriter/CUBRID.php');

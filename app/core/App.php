@@ -4,6 +4,8 @@
 namespace app\core;
 
 
+use app\components\Router;
+
 class App
 {
     public static $app;
@@ -15,7 +17,10 @@ class App
         $this->getParams();
         new ErrorHandler();
 
-        Router::dispatch($query);
+        try {
+            Router::dispatch($query);
+        } catch ( \Exception $e ) {
+        }
     }
 
     protected function getParams () {

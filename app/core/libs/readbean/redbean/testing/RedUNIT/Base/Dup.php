@@ -2,11 +2,10 @@
 
 namespace RedUNIT\Base;
 
-use RedUNIT\Base as Base;
-use RedBeanPHP\Facade as R;
 use RedBeanPHP\DuplicationManager as DuplicationManager;
-use RedBeanPHP\OODBBean as OODBBean;
+use RedBeanPHP\Facade as R;
 use RedBeanPHP\RedException as RedException;
+use RedUNIT\Base as Base;
 
 /**
  * Dup

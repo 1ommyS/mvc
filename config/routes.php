@@ -1,9 +1,6 @@
 <?php
 
-use app\core\Router;
-
-//
-
+use app\components\Router;
 
 // default routes
 

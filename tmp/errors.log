@@ -1,8 +1,0 @@
-[2020-07-14 15:01:44] Текст ошибки: Class 'core\DB' not found | Файл: D:\openserver\domains\framework.loc\app\core\base\Model.php | Строка: 16
--------------------
-[2020-07-14 15:02:28] Текст ошибки: Argument 4 passed to app\core\base\View::__construct() must be of the type string, array given, called in D:\openserver\domains\framework.loc\app\core\base\Controller.php on line 27 | Файл: D:\openserver\domains\framework.loc\app\core\base\View.php | Строка: 21
--------------------
-[2020-07-14 15:02:52] Текст ошибки: Argument 4 passed to app\core\base\View::__construct() must be of the type string, array given, called in D:\openserver\domains\framework.loc\app\core\base\Controller.php on line 27 | Файл: D:\openserver\domains\framework.loc\app\core\base\View.php | Строка: 21
--------------------
-[2020-07-14 15:03:48] Текст ошибки: Не найден LayOut: D:\openserver\domains\framework.loc/app/views/layouts/ecommerce.php | Файл: D:\openserver\domains\framework.loc\app\core\base\View.php | Строка: 52
--------------------

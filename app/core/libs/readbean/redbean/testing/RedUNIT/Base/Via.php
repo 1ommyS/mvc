@@ -2,12 +2,9 @@
 
 namespace RedUNIT\Base;
 
-use RedUNIT\Base as Base;
 use RedBeanPHP\Facade as R;
-use RedBeanPHP\ToolBox as ToolBox;
-use RedBeanPHP\AssociationManager as AssociationManager;
-use RedBeanPHP\RedException\SQL as SQL;
 use RedBeanPHP\QueryWriter\AQueryWriter as AQueryWriter;
+use RedUNIT\Base as Base;
 
 /**
  * Via

@@ -8,7 +8,7 @@ class Registry
 {
     use TSingletone;
 
-    protected static $properties = [];
+    protected static array $properties = [];
 
 
     public function setProperty (string $name, $value): void {
