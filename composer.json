@@ -1,0 +1,14 @@
+{
+  "name": "thomas/framework.loc",
+  "autoload": {
+    "psr-4": {
+      "framework\\": "vendor/framework/core",
+      "app\\": "app"
+    }
+  },
+  "type": "project",
+  "license": "Tommy",
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
+}
