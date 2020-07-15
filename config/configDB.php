@@ -1,2 +1,2 @@
 <?php
-return ['dsn' => 'mysql:host=localhost;dbname=mvc;charset=utf8', 'user' => '', 'pass' => ''];
+return ['dsn' => 'mysql:host=localhost;dbname=service.park;charset=utf8', 'user' => 'root', 'pass' => 'root'];

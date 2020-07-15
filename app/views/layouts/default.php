@@ -8,7 +8,6 @@
     <?= $this->getMeta(); ?>
 </head>
 <body>
-
 <?= $content ?>
 
 </body>
